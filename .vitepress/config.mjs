@@ -21,21 +21,33 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Features',
+        text: 'Configuration',
         items: [
-          { text: 'Scenarios', link: '/features/scenarios' }
+          { text: 'Commands & Permissions', link: '/configuration/commands-permissions' },
+          { text: 'Messages & Formatting', link: '/configuration/messages' },
+          { text: 'Placeholders', link: '/configuration/placeholders' },
+          { text: 'Scoreboards & Menus', link: '/configuration/scoreboards' },
+          { text: 'Bungee Announce', link: '/configuration/bungee-announce' }
         ]
       },
       {
-        text: 'Configuration',
+        text: 'Features',
         items: [
-          { text: 'Commands & Permissions', link: '/configuration/commands-permissions' }
+          { text: 'Scenarios', link: '/features/scenarios' },
+          { text: 'World Generation', link: '/features/world-generation' },
+          { text: 'World Mutation', link: '/features/world-mutation' }
+        ]
+      },
+      {
+        text: 'Developer Guide',
+        items: [
+          { text: 'AetherUHC API', link: '/developer/api' }
         ]
       },
       {
         text: 'Knowledge Base',
         items: [
-          { text: 'What is UHC?', link: '/knowledge-base/index' }
+          { text: 'Comprehensive UHC Guide', link: '/knowledge-base/index' }
         ]
       }
     ],
