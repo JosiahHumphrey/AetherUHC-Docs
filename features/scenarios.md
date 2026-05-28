@@ -212,7 +212,7 @@ Go To Hell After 30 minutes, overworld players take damage every 30s until they 
 Grass Explosion When players walk on grass it will have a 25% chance to explode. NOTE: Will start immediately upon scatter.
 
 ### Genie
-Each player gets 3 wishes; kill tiers unlock better rewards. Use &e/genie wish <reward>&b.
+Each player gets 3 wishes; kill tiers unlock better rewards. Use &e/genie wish \&lt;reward\&gt;&b.
 
 ### HALF_ORES
 Half Ores Every second ore of each type you mine drops loot.
