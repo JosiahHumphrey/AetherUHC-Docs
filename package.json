@@ -1,0 +1,13 @@
+{
+  "name": "aetheruhc-docs",
+  "version": "1.0.0",
+  "description": "AetherUHC Documentation",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress": "^1.2.2"
+  }
+}
