@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "AetherUHC Docs",
   description: "Modern Ultra Hardcore plugin for Minecraft",
-  base: "/AetherUHC/", // Since it'll be hosted at bghddevelopment.github.io/AetherUHC/ or similar
+  base: "/AetherUHC-Docs/", // Hosted at https://josiahhumphrey.github.io/AetherUHC-Docs/
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
